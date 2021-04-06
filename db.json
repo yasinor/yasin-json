@@ -1,7 +1,7 @@
 {
   "teachers":[
-    {"id":1, "name":"Yasin ORTAKCI", "salary": 5000.56},
-    {"id":2, "name":"Caner OZCAN", "salary": 6000.56}
+    {"id":1, "name":"Yasin ORTAKCI"},
+    {"id":2, "name":"Caner OZCAN"}
     ],
   "courses":[
     {"name": "Programming Language", "teacherID":1, "active":true},
