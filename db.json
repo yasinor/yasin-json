@@ -4,7 +4,7 @@
     {"id":2, "name":"Caner OZCAN"}
     ],
   "courses":[
-    {"name": "Programming Language", "teacherID":1, "active":true},
-    {"name": "Mobile Programming", "teacherID":2, "active":false} 
+    {"name": "Programming Language", "teacherID":1},
+    {"name": "Mobile Programming", "teacherID":2} 
     ]
 }
